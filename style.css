@@ -6,5 +6,18 @@ body{
     background-color: #DEB887;
     width: 400px;
     height: 550px;
-    text-align: center;   
+    font-size: 0;       
+}
+#table>button{
+    height: 60px;
+    width: 60px;
+    display: inline;
+    border: none;
+    box-sizing: border-box;
+    font-size: 14px;
+    margin: 5px;  
+    
+}
+#table>.btn-clear{
+    width: 130px;
 }
