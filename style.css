@@ -1,0 +1,10 @@
+body{
+    background-color: #7FFFD4;
+}
+#table{
+    margin: auto;
+    background-color: #DEB887;
+    width: 400px;
+    height: 550px;
+    text-align: center;   
+}
